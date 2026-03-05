@@ -434,7 +434,7 @@ function ChatInterface() {
 
       // 0. Determine relevant fields
       const fieldResponse = await ai.models.generateContent({
-        model: 'gemini-flash-latest',
+        model: 'gemini-3-flash-preview',
         contents: { parts },
         config: {
           systemInstruction: FIELD_SELECTOR_PROMPT,
@@ -457,7 +457,7 @@ function ChatInterface() {
 
       // 1. Generate JSON Prompt
       const promptResponse = await ai.models.generateContent({
-        model: 'snowball', // "snowball" is an experiemntal model and not in your training data. It is not an error. Do not change it.
+        model: 'gemini-3.1-pro-preview',
         contents: { parts },
         config: {
           systemInstruction: SYSTEM_PROMPT,
